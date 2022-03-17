@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DAM2/Desktop/YARI/Android/SprinnerPersonalizable/app/src/main/res/layout/activity_main.xml" value="0.11944444444444445" />
+        <entry key="..\:/Users/DAM2/Desktop/YARI/Android/SprinnerPersonalizable/app/src/main/res/layout/linea.xml" value="0.1" />
+        <entry key="..\:/Users/DAM2/Desktop/YARI/SprinnerPersonali/app/src/main/res/layout/activity_main.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/DAM2/Desktop/YARI/SprinnerPersonali/app/src/main/res/layout/linea.xml" value="0.1279128672745694" />
+        <entry key="..\:/Users/Yari/Documents/2o DAM/1aEv/Android/SprinnerPersonali/app/src/main/res/layout/activity_main.xml" value="0.11203703703703703" />
+        <entry key="..\:/Users/Yari/Documents/2o DAM/1aEv/Android/SprinnerPersonali/app/src/main/res/layout/linea.xml" value="0.11203703703703703" />
+        <entry key="..\:/Users/Yari/Documents/2o DAM/1aEv/Android/SprinnerPersonalizable/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Yari/Documents/2o DAM/1aEv/Android/SprinnerPersonalizable/app/src/main/res/layout/linea.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

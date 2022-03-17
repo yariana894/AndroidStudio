@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="main">Insert two natural numbers</string>
+    <string name="go_to_second">Go to Second Activity</string>
+
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+</resources>

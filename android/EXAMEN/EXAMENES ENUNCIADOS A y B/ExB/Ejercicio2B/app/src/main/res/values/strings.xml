@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejercicio2B</string>
+
+    <string-array name="medidas">
+        <item>Selecciona</item>
+        <item>Metro</item>
+        <item>Pulgada</item>
+        <item>Pie</item>
+        <item>Yarda</item>
+        <item>Milla</item>
+    </string-array>
+
+</resources>

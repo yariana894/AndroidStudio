@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Controles</string>
+    <string name="cual_es_tu_equipo_favorito">Cual es tu equipo favorito??</string>
+    <string name="coruxo">Coruxo</string>
+    <string name="atletico_arteixo">Atletico Arteixo</string>
+    <string name="r_pido_de_bouzas">Rápido de Bouzas</string>
+    <string name="otros_malos_rmad_bar_atmad">Otros Malos (RMad - Bar - AtMad)</string>
+    <string name="me_gusta_el_furgo">Me gusta el furgo</string>
+    <string name="sombrero">Sombrero</string>
+    <string name="quitado">Quitado</string>
+    <string name="puesto">Puesto</string>
+</resources>

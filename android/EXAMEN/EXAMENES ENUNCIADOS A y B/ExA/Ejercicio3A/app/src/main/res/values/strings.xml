@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio3A</string>
+    <string name="home">Home</string>
+    <string name="productinfo">ProductInfo</string>
+    <string name="samples">Samples</string>
+    <string name="features">features</string>
+    <string name="installations">installations</string>
+</resources>
